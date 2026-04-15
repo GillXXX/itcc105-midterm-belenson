@@ -1,15 +1,15 @@
-# ASSCAT Campus AI Copilot – Pitch
+# ASSCAT Neural Campus AI Copilot – Pitch
 
 ## Problem Statement
-The current ASSCAT student portal is menu-based, confusing, and slow to navigate. Students must click through multiple pages just to complete simple tasks like checking clearance, grades, or announcements. This leads to wasted time, frustration, and poor accessibility, especially for new students.
+The current ASSCAT student portal is reactive and requires students to manually search through menus. This slows down access to important services like clearance, grades, and announcements. Many students get lost in navigation, causing delays and confusion.
 
 ## Industry 5.0 Justification
-The ASSCAT Campus AI Copilot follows Industry 5.0 principles by putting humans at the center of technology. Instead of replacing human assistance, the AI supports students by simplifying access to school services. It reduces workload for staff while empowering students with faster, more natural interaction through chat or voice commands.
+The ASSCAT Neural Campus AI Copilot is designed under Industry 5.0 principles by combining human-centered AI with predictive assistance. Instead of replacing human interaction, it enhances decision-making by anticipating student needs and reducing cognitive load. The system acts like a digital assistant that understands intent and context, making campus services more accessible and efficient.
 
 ## Agile User Stories
 
-1. As a Student, I want to ask the AI about my clearance status, so that I can avoid going to different offices unnecessarily.
+1. As a Student, I want the AI to predict what I need based on my activity, so that I can access services faster without searching.
 
-2. As a Student, I want to receive real-time announcements through chat, so that I stay updated without checking multiple pages.
+2. As a Student, I want to receive proactive alerts (like clearance issues or deadlines), so that I can avoid penalties.
 
-3. As a Registrar Staff, I want to update student information through AI commands, so that I can process requests faster and with fewer errors.
+3. As a Registrar, I want the AI to automatically categorize student requests, so that processing becomes faster and more organized.
