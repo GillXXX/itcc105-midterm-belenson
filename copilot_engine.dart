@@ -18,18 +18,18 @@ void main() {
         break;
 
       case "view grades":
-        print("🔮 AI Prediction: You are checking academic performance.");
-        print("📊 GPA: 1.75 | Performance: Good standing.");
+        print("AI Prediction: You are checking academic performance.");
+        print("GPA: 1.75 | Performance: Good standing.");
         break;
 
       case "deadlines":
-        print("🔮 AI Prediction: You are looking for urgent tasks.");
-        print("⏰ Deadline: Enrollment ends tomorrow.");
+        print("AI Prediction: You are looking for urgent tasks.");
+        print("Deadline: Enrollment ends tomorrow.");
         break;
 
       default:
-        print("🧠 AI: I am analyzing your intent...");
-        print("❓ Please specify your request.");
+        print("AI: I am analyzing your intent...");
+        print("Please specify your request.");
     }
   }
 }
